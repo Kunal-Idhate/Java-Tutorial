@@ -4,3 +4,8 @@
 # Ignore build-related directories
 target/
 bin/
+
+# gitignore and vscode
+
+.gitignore
+.vscode
