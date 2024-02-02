@@ -5,7 +5,6 @@
 target/
 bin/
 
-# gitignore and vscode
+#  vscode
 
-.gitignore
-.vscode
+.vscode/
