@@ -4,7 +4,7 @@
 # Ignore build-related directories
 target/
 bin/
+.vscode/
 
 #  vscode
 
-.vscode/
